@@ -1,1 +1,1 @@
-This is a simpel Example how to use the Swig Tempalte Engine in conjunction with ExpressJS
+This is a simple example of how to use the Swig Tempalte Engine in conjunction with ExpressJS
