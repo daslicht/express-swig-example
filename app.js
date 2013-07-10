@@ -13,7 +13,7 @@
         app.set('port', process.env.PORT || 3000);
         //SETUP SWIG
             swig.init({
-                root: __dirname, //setting to teh root of this project: /
+                root: __dirname, //setting to the root of this project: /
                 allowErrors: true // allows errors to be thrown and caught by express instead of suppressed by Swig
             });
             app.set('views', __dirname);
